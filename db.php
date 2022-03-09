@@ -3,7 +3,7 @@
     $serverName = "localhost";
     $userName = "root";
     $password = "";
-    $dbName = "agroculture";
+    $dbName = "OrganicsKe";
 
     $conn = mysqli_connect($serverName, $userName, $password, $dbName);
     if (!$conn)

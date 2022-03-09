@@ -44,6 +44,7 @@ if($category == 1)
             {
                 $_SESSION['picId'] = 0;
                 $_SESSION['picName'] = "profile0.png";
+
             }
             else
             {
