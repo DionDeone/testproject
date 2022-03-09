@@ -15,7 +15,7 @@ if($category == 1)
 
     if($num_rows == 0)
     {
-        $_SESSION['message'] = "Invalid User Credentialss!";
+        $_SESSION['message'] = "Invalid User Credentials!";
         header("location: error.php");
     }
 
