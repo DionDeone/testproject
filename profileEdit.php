@@ -22,7 +22,7 @@
             require 'menu.php';
         ?>
 
-        <section id="post" class="wrapper bg-img" data-bg="banner2.jpg">
+        <!--<section id="post" class="wrapper bg-img" data-bg="banner2.jpg">
             <div class="inner">
                 <div class="box">
                 <header>
@@ -39,7 +39,7 @@
                             <input type="submit" class="button special small" name="remove" value="Remove" />
                         </div>
                     </form>
-                </header>
+                     </header>
                 <form method="post" action="Profile/updateProfile.php">
                     <div class="row uniform">
                         <div class="8u 12u$(xsmall)">
@@ -54,7 +54,7 @@
                         <div class="6u 12u$(xsmall)">
                             <input type="email" name="email" id="email" value="<?php echo $_SESSION['Email'];?>" placeholder="Email" required/>
                         </div>
-                        <div class="6u 12u$(xsmall)">
+                       <div class="6u 12u$(xsmall)">
                             <div class="select-wrapper">
                               <select name="section" id="section">
                                     <option value="<?php echo $_SESSION['Section'];?>"><?php echo $_SESSION['Section'];?></option>
@@ -102,7 +102,7 @@
                          <div class="2u 12u$(small)">
                             <input type="radio" id="4" name="year" value="4">
                             <label for="4">4<sup>th</sup> Year</label>
-                        </div>
+                        </div>-->
                         <div class="12u$">
                         <center>
                             <input type="submit" class = "button special" value="Update Profile" />

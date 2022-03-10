@@ -87,19 +87,19 @@
                         <div class="6u 12u$(xsmall)">
                             <input type="email" name="email" id="email" value="" placeholder="Email" required/>
                         </div>
-                    </div>
-                    <div class="row uniform">
-                        <div class="4u 12u$(xsmall)">
-                            <input type="text" name="pincode" id="pincode" value="" placeholder="Pincode" required/>
-                        </div>
-                        <div class="8u 12u$(xsmall)">
-                            <input type="text" name="addr" id="addr" value="" placeholder="Address" style="width:80%" required/>
-                        </div>
-                    </div>
-                    <br />
-                    <p>
-                        <input type="submit" value="Confirm Order" />
-                    </p>
-                </center>
-            </form>
-        </fieldset>
+                        <!-- </div>
+                         <div class="row uniform">
+                             <div class="4u 12u$(xsmall)">
+                                 <input type="text" name="pincode" id="pincode" value="" placeholder="Pincode" required/>
+                             </div>
+                             <div class="8u 12u$(xsmall)">
+                                 <input type="text" name="addr" id="addr" value="" placeholder="Address" style="width:80%" required/>
+                             </div>
+                         </div>-->
+                         <br />
+                         <p>
+                             <input type="submit" value="Confirm Order" />
+                         </p>
+                     </center>
+                 </form>
+             </fieldset>
