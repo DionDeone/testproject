@@ -4,7 +4,7 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8">
-		<title>OrganicsKe</title>
+		<title>Online Horticultural System</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -33,8 +33,8 @@
 		<!-- Banner -->
 			<section id="banner" class="wrapper">
 				<div class="container">
-				<h2>OrganicsKe</h2>
-				<p>Welcome to your home of Wealth and Health</p>
+				<h2>Online Horticultural Management System</h2>
+				<p>Your Product Our Market</p>
 				<br><br>
 				<center>
 					<div class="row uniform">
@@ -51,20 +51,21 @@
 
 			</section>
 
-		<!-- One
+		<!-- One -->
 			<section id="one" class="wrapper style1 align-center">
 				<div class="container">
 					<header>
 						<h2>OrganicsKe</h2>
-						<p>Best platform in the Country</header>
+						<p>Explore the new way of trading...</p>
+					</header>
 					<div class="row 200%">
 						<section class="4u 12u$(small)">
 							<i class="icon big rounded fa-clock-o"></i>
-							<p>Digital Market</p>
+							<p> Market</p>
 						</section>
 						<section class="4u 12u$(small)">
 							<i class="icon big rounded fa-comments"></i>
-							<p>Agro-Blog</p>
+							<p>Organics</p>
 						</section>
 						<section class="4u$ 12u$(small)">
 							<i class="icon big rounded fa-user"></i>
@@ -73,15 +74,15 @@
 					</div>
 				</div>
 			</section>
--->
+
 
 		<!-- Footer -->
 		<footer class="footer-distributed" style="background-color:black" id="aboutUs">
 		<center>
-			<h1 style="font: 40px 'Times New Roman';color: white">About Us</h1>
+			<h1 style="font: 35px calibri;color:white">About Us</h1>
 		</center>
 		<div class="footer-left">
-			<h3 style="font-family: 'Times New Roman', cursive;">OrganicsKe&copy; </h3>
+			<h3 style="font-family: 'Times New Roman', cursive;">OrganicsKe &copy; </h3>
 		<!--	<div class="logo">
 				<a href="index.php"><img src="images/logo.png" width="200px"></a>
 			</div>-->
@@ -97,20 +98,19 @@
 			</div>
 			<div>
 				<i class="fa fa-phone"></i>
-				<p style="font-size:20px">0703 287 912</p>
+				<p style="font-size:20px">0720 53 54 63</p>
 			</div>
 			<div>
 				<i class="fa fa-envelope"></i>
-				<p style="font-size:20px"><a href="mailto:OrganicsKe@gmail.com" style="color:white">OrganicsKe@demo.com</a></p>
+				<p style="font-size:20px"><a href="mailto:OrganicsKe@gmail.com" style="color:white">OrganicsKe@gmail.com</a></p>
 			</div>
 		</div>
 
 		<div class="footer-right">
 			<p class="footer-company-about" style="color:white">
 				<span style="font-size:20px"><b>About OrganicsKe</b></span>
-                We believe in health for our communities: our community of customers, the local neighbourhoods surrounding our stores,
-                <span> the teams who work in our stores and the people behind the products that sit on our shelves. A healthy planet is just as high up on our priorities list.
-			</p></span>
+                OrganicsKe is e-commerce trading platform for Holticultural products.
+			</p>
 			<div class="footer-icons">
 				<a  href="#"><i style="margin-left: 0;margin-top:5px;"class="fa fa-facebook"></i></a>
 				<a href="#"><i style="margin-left: 0;margin-top:5px" class="fa fa-instagram"></i></a>
@@ -145,11 +145,7 @@
 				                        </p>
 				                        <div class="3u 12u$(small)">
 				                            <input type="radio" id="farmer" name="category" value="1" checked>
-				                            <label for="farmer">Farmer</label>
-				                        </div>
-				                        <div class="3u 12u$(small)">
-				                            <input type="radio" id="buyer" name="category" value="0">
-				                            <label for="buyer">Buyer</label>
+				                            <label for="farmer">Farmer/Buyer</label>
 				                        </div>
 									</div>
 									<center>
@@ -218,11 +214,7 @@
 			                        </p>
 			                        <div class="3u 12u$(small)">
 			                            <input type="radio" id="farmer" name="category" value="1" checked>
-			                            <label for="farmer">Farmer</label>
-			                        </div>
-			                        <div class="3u 12u$(small)">
-			                            <input type="radio" id="buyer" name="category" value="0">
-			                            <label for="buyer">Buyer</label>
+			                            <label for="farmer">Farmer/Buyer</label>
 			                        </div>
 								</div>
 								<div class="row uniform">

@@ -21,7 +21,7 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8">
-		<title>OrganicsKe: My Cart</title>
+		<title>AgroCulture: My Cart</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />

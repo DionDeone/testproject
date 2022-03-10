@@ -54,11 +54,55 @@
                         <div class="6u 12u$(xsmall)">
                             <input type="email" name="email" id="email" value="<?php echo $_SESSION['Email'];?>" placeholder="Email" required/>
                         </div>
-
+                        <div class="6u 12u$(xsmall)">
+                            <div class="select-wrapper">
+                              <select name="section" id="section">
+                                    <option value="<?php echo $_SESSION['Section'];?>"><?php echo $_SESSION['Section'];?></option>
+                                    <option value="Band">Band</option>
+                                    <option value="Drama">Drama</option>
+                                    <option value="Dance">Dance</option>
+                                    <option value="Decoration">Decoration</option>
+                                    <option value="Other">Other</option>
+                                </select>
+                            </div>
+                        </div>
                         <div class="6u 12u$(xsmall)">
                             <input type="text" name="post" id="post" value="<?php echo $_SESSION['Post'];?>" placeholder="Post Name" required/>
                         </div>
-
+                        <p>
+                            <b>Education : </b>
+                        </p>
+                        <div class="3u 12u$(small)">
+                            <input type="radio" id="diploma" name="edu" value="Diploma" checked>
+                            <label for="1">Diploma</label>
+                        </div>
+                        <div class="3u 12u$(small)">
+                            <input type="radio" id="btech" name="edu" value="B.TECH">
+                            <label for="btech">B.TECH</label>
+                        </div>
+                         <div class="3u 12u$(small)">
+                            <input type="radio" id="mtech" name="edu" value="M.TECH">
+                            <label for="mtech">M.TECH</label>
+                        </div>s
+                        <p>
+                            <b>Choose Year : </b>
+                        </p>
+                        <div class="2u 12u$(small)">
+                            <input type="radio" id="1" name="year" value="1" checked>
+                            <label for="1">1<sup>st</sup> Year</label>
+                        </div>
+                        <div class="2u 12u$(small)">
+                            <input type="radio" id="2" name="year" value="2">
+                            <label for="2">2<sup>nd</sup> Year</label>
+                        </div>
+                        <div class="2u 12u$(small)">
+                            <input type="radio" id="3" name="year" value="3">
+                            <label for="3">3<sup>rd</sup> Year</label>
+                        </div>
+                         <div class="2u 12u$(small)">
+                            <input type="radio" id="4" name="year" value="4">
+                            <label for="4">4<sup>th</sup> Year</label>
+                        </div>
                         <div class="12u$">
                         <center>
                             <input type="submit" class = "button special" value="Update Profile" />

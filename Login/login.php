@@ -15,7 +15,7 @@ if($category == 1)
 
     if($num_rows == 0)
     {
-        $_SESSION['message'] = "Invalid User Credentials!";
+        $_SESSION['message'] = "Invalid User Credentialss!";
         header("location: error.php");
     }
 
@@ -44,7 +44,6 @@ if($category == 1)
             {
                 $_SESSION['picId'] = 0;
                 $_SESSION['picName'] = "profile0.png";
-
             }
             else
             {

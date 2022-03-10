@@ -7,7 +7,7 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8">
-		<title>OrganicsKe</title>
+		<title>AgroCulture</title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
@@ -45,7 +45,7 @@
 			<section id="one" class="wrapper style1 align-center"  >
 				<div class="container" >
 					<header>
-						<h2>You are Home</h2>
+						<h2>Welcome to digital market</h2>
 
 						<section id="two" class="wrapper style2 align-center">
 				<div class="container" >
@@ -151,8 +151,7 @@
 						<li>Images: <a href="http://unsplash.com">Unsplash</a></li>
 					</ul>
 				</div>
-			</footer>-->
-
+			</footer>
 
 
 			<footer class="footer-distributed" style="background-color:black" id="aboutUs">
@@ -171,27 +170,28 @@
 			<div class="footer-center">
 				<div>
 					<i class="fa fa-map-marker"></i>
-					<p style="font-size:20px">Nairobi Kenya<span>Kiambu</span></p>
+					<p style="font-size:20px">Walchand College Of Engineering<span>Sangli 416 415</span></p>
 				</div>
 				<div>
 					<i class="fa fa-phone"></i>
-					<p style="font-size:20px">0703 287 912</p>
+					<p style="font-size:20px">9765106359</p>
 				</div>
 				<div>
 					<i class="fa fa-envelope"></i>
-					<p style="font-size:20px"><a href="mailto:OrganicsKe@gmail.com" style="color:white">OrganicsKe@gmail.com</a></p>
+					<p style="font-size:20px"><a href="mailto:artistkattawce@gmail.com" style="color:white">artistkattawce@gmail.com</a></p>
 				</div>
 			</div>
 
 			<div class="footer-right">
 				<p class="footer-company-about" style="color:white">
-					<span style="font-size:20px"><b>About OrganicsKe</b></span>
-                    We believe in health for our communities: our community of customers, the local neighbourhoods surrounding our stores, the teams who work in our stores and the people behind the products that sit on our shelves. A healthy planet is just as high up on our priorities list.
+					<span style="font-size:20px"><b>About ART CIRCLE</b></span>
+					Art Circle is a club established by the students of Walchand College of Engineering, Sangli
+					to nurture the art in various forms.
 				</p>
 				<div class="footer-icons">
-					<a  href="#"><i style="margin-left: 0;margin-top:5px;"class="fa fa-facebook"></i></a>
-
-					<a href="#"><i style="margin-left: 0;margin-top:5px" class="fa fa-youtube"></i></a>
+					<a  href="https://www.facebook.com/wceartcircle/"><i style="margin-left: 0;margin-top:5px;"class="fa fa-facebook"></i></a>
+					<a href="https://www.instagram.com/wce_artcircle/?hl=en"><i style="margin-left: 0;margin-top:5px" class="fa fa-instagram"></i></a>
+					<a href="https://www.youtube.com/channel/UCwyXHtmyoQI5EXKEBp2NaIQ"><i style="margin-left: 0;margin-top:5px" class="fa fa-youtube"></i></a>
 				</div>
 			</div>
 
@@ -199,5 +199,6 @@
 
 
 
-	</body>
+	</body>-->
+
 </html>

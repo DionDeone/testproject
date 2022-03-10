@@ -58,6 +58,7 @@ if($category == 1)
             $_SESSION['logged_in'] = true;
 
             $_SESSION['picStatus'] = 0;
+            //$_SESSION['picExt'] = pic01.jpg;
 
             $sql = "SELECT * FROM farmer WHERE fusername='$user'";
             $result = mysqli_query($conn, $sql);
@@ -104,7 +105,7 @@ if($category == 1)
     }
 }
 
-else
+else 
 {
     $sql = "SELECT * FROM buyer WHERE bemail='$email'";
 
